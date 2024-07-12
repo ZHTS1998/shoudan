@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CNCBCryptoPkg">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/CNCBCryptoPkg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcprov-jdk14-145.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcmail-jdk14-145.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
